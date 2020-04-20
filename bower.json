@@ -1,18 +1,18 @@
 {
-  "name": "bpg-web-001",
-  "description": "BPG WEB 001 Web-Font Package",
+  "name": "bpg-web-001-all",
+  "description": "BPG WEB 001 All Web-Font Package",
   "version": "1.0.0",
-  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-web-001"],
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-web-001", "bpg-web-001-caps", "bpg-web-001-all"],
   "main": [
-    "css/bpg-web-001.css"
+    "css/bpg-web-001-all.css"
   ],
-  "homepage": "https://github.com/web-fonts/bpg-web-001",
+  "homepage": "https://github.com/metaoutdoor/bpg-web-001-all",
   "authors": [
-    "Lado Lomidze <lado.lomidze@gmail.com>"
+    "Levan Velijanashvili <me@stichoza.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/web-fonts/bpg-web-001.git"
+    "url": "https://github.com/metaoutdoor/bpg-web-001-all.git"
   },
   "license": ["MIT", "CC-BY-NC-ND-4.0"],
   "ignore": [
