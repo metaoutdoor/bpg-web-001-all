@@ -4,6 +4,7 @@
   "description": "BPG WEB 001 All Web-Font Package",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-web-001", "bpg-web-001-caps", "bpg-web-001-all"],
   "main": "css/bpg-web-001-all.css",
+  "style": "css/bpg-web-001-all.css",
   "homepage": "https://github.com/metaoutdoor/bpg-web-001-all",
   "author": "Levan Velijanashvili <me@stichoza.com>",
   "repository": {
