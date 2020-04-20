@@ -1,7 +1,7 @@
 {
   "name": "bpg-web-001-all",
   "description": "BPG WEB 001 All Web-Font Package",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-web-001", "bpg-web-001-caps", "bpg-web-001-all"],
   "main": [
     "css/bpg-web-001-all.css"
