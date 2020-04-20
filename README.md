@@ -1,9 +1,5 @@
 # BPG WEB 001 All
 
-[![Bower](https://img.shields.io/bower/v/bpg-web-001-all.svg)](http://bower.io/search/?q=bpg-web-001-all)
-[![npm](https://img.shields.io/npm/v/bpg-web-001-all.svg)](https://www.npmjs.com/package/bpg-web-001-all)
-[![Author](https://img.shields.io/badge/Font_Author-Besarion_Gugushvili-blue.svg)](https://github.com/web-fonts/bpg-web-001)
-
 BPG WEB 001 All Web-Font Package.
 
 Merged font of **BPG WEB 001** (Georgian lowercase chars) and **BPG WEB 001 Caps** (Georgian uppercase chars).
@@ -47,3 +43,7 @@ body {
 ## Licence
 
 The BPG WEB 001 package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT), but the Font files are licenced under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## Thanks
+
+Huge thanks to [web-fonts](https://github.com/web-fonts) team for providing original font packages and Besarion Gugushvili for original font files.
